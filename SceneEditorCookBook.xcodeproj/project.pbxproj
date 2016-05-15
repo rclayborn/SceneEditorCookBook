@@ -16,6 +16,23 @@
 		70D4BC901CE81DCE00FFA3EA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 70D4BC8E1CE81DCE00FFA3EA /* LaunchScreen.storyboard */; };
 		70D4BC9B1CE81DCE00FFA3EA /* SceneEditorCookBookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70D4BC9A1CE81DCE00FFA3EA /* SceneEditorCookBookTests.swift */; };
 		70D4BCA61CE81DCE00FFA3EA /* SceneEditorCookBookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70D4BCA51CE81DCE00FFA3EA /* SceneEditorCookBookUITests.swift */; };
+		70D4BCB61CE8253500FFA3EA /* SpawningEnemies.sks in Resources */ = {isa = PBXBuildFile; fileRef = 70D4BCB31CE8253500FFA3EA /* SpawningEnemies.sks */; };
+		70D4BCB71CE8253500FFA3EA /* SpawingEnemies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70D4BCB41CE8253500FFA3EA /* SpawingEnemies.swift */; };
+		70D4BCBB1CE8253A00FFA3EA /* Parallax.sks in Resources */ = {isa = PBXBuildFile; fileRef = 70D4BCB81CE8253A00FFA3EA /* Parallax.sks */; };
+		70D4BCBC1CE8253A00FFA3EA /* Parallax.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70D4BCB91CE8253A00FFA3EA /* Parallax.swift */; };
+		70D4BCC01CE8254100FFA3EA /* HighScoreDisplay.sks in Resources */ = {isa = PBXBuildFile; fileRef = 70D4BCBD1CE8254100FFA3EA /* HighScoreDisplay.sks */; };
+		70D4BCC11CE8254100FFA3EA /* HighScoreDisplay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70D4BCBE1CE8254100FFA3EA /* HighScoreDisplay.swift */; };
+		70D4BCC51CE8254E00FFA3EA /* AnimatedCharacter.sks in Resources */ = {isa = PBXBuildFile; fileRef = 70D4BCC21CE8254E00FFA3EA /* AnimatedCharacter.sks */; };
+		70D4BCC61CE8254E00FFA3EA /* AnimatedCharacter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70D4BCC31CE8254E00FFA3EA /* AnimatedCharacter.swift */; };
+		70D4BCD01CE8255200FFA3EA /* EndlessBackgroundScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70D4BCC71CE8255200FFA3EA /* EndlessBackgroundScene.swift */; };
+		70D4BCD11CE8255200FFA3EA /* EndlessBackgroundScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 70D4BCC81CE8255200FFA3EA /* EndlessBackgroundScene.sks */; };
+		70D4BCD21CE8255200FFA3EA /* BGClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70D4BCC91CE8255200FFA3EA /* BGClass.swift */; };
+		70D4BCD31CE8255200FFA3EA /* HomeButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 70D4BCCA1CE8255200FFA3EA /* HomeButton.png */; };
+		70D4BCD41CE8255200FFA3EA /* CarJunkYard0.png in Resources */ = {isa = PBXBuildFile; fileRef = 70D4BCCB1CE8255200FFA3EA /* CarJunkYard0.png */; };
+		70D4BCD51CE8255200FFA3EA /* CarJunkYard1.png in Resources */ = {isa = PBXBuildFile; fileRef = 70D4BCCC1CE8255200FFA3EA /* CarJunkYard1.png */; };
+		70D4BCD61CE8255200FFA3EA /* CarJunkYard2.png in Resources */ = {isa = PBXBuildFile; fileRef = 70D4BCCD1CE8255200FFA3EA /* CarJunkYard2.png */; };
+		70D4BCDA1CE8255800FFA3EA /* PlatformsAndCollectablesScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70D4BCD71CE8255800FFA3EA /* PlatformsAndCollectablesScene.swift */; };
+		70D4BCDB1CE8255800FFA3EA /* PlatformsAndCollectablesScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 70D4BCD81CE8255800FFA3EA /* PlatformsAndCollectablesScene.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +68,23 @@
 		70D4BCA11CE81DCE00FFA3EA /* SceneEditorCookBookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SceneEditorCookBookUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		70D4BCA51CE81DCE00FFA3EA /* SceneEditorCookBookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneEditorCookBookUITests.swift; sourceTree = "<group>"; };
 		70D4BCA71CE81DCE00FFA3EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		70D4BCB31CE8253500FFA3EA /* SpawningEnemies.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = SpawningEnemies.sks; sourceTree = "<group>"; };
+		70D4BCB41CE8253500FFA3EA /* SpawingEnemies.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpawingEnemies.swift; sourceTree = "<group>"; };
+		70D4BCB81CE8253A00FFA3EA /* Parallax.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Parallax.sks; sourceTree = "<group>"; };
+		70D4BCB91CE8253A00FFA3EA /* Parallax.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Parallax.swift; sourceTree = "<group>"; };
+		70D4BCBD1CE8254100FFA3EA /* HighScoreDisplay.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = HighScoreDisplay.sks; sourceTree = "<group>"; };
+		70D4BCBE1CE8254100FFA3EA /* HighScoreDisplay.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HighScoreDisplay.swift; sourceTree = "<group>"; };
+		70D4BCC21CE8254E00FFA3EA /* AnimatedCharacter.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = AnimatedCharacter.sks; sourceTree = "<group>"; };
+		70D4BCC31CE8254E00FFA3EA /* AnimatedCharacter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimatedCharacter.swift; sourceTree = "<group>"; };
+		70D4BCC71CE8255200FFA3EA /* EndlessBackgroundScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EndlessBackgroundScene.swift; sourceTree = "<group>"; };
+		70D4BCC81CE8255200FFA3EA /* EndlessBackgroundScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = EndlessBackgroundScene.sks; sourceTree = "<group>"; };
+		70D4BCC91CE8255200FFA3EA /* BGClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BGClass.swift; sourceTree = "<group>"; };
+		70D4BCCA1CE8255200FFA3EA /* HomeButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HomeButton.png; sourceTree = "<group>"; };
+		70D4BCCB1CE8255200FFA3EA /* CarJunkYard0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CarJunkYard0.png; sourceTree = "<group>"; };
+		70D4BCCC1CE8255200FFA3EA /* CarJunkYard1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CarJunkYard1.png; sourceTree = "<group>"; };
+		70D4BCCD1CE8255200FFA3EA /* CarJunkYard2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CarJunkYard2.png; sourceTree = "<group>"; };
+		70D4BCD71CE8255800FFA3EA /* PlatformsAndCollectablesScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlatformsAndCollectablesScene.swift; sourceTree = "<group>"; };
+		70D4BCD81CE8255800FFA3EA /* PlatformsAndCollectablesScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = PlatformsAndCollectablesScene.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +135,12 @@
 		70D4BC801CE81DCE00FFA3EA /* SceneEditorCookBook */ = {
 			isa = PBXGroup;
 			children = (
+				70D4BCB51CE8253500FFA3EA /* SpawningEnemiesScenes */,
+				70D4BCBA1CE8253A00FFA3EA /* Parallax Effect */,
+				70D4BCBF1CE8254100FFA3EA /* HighScoreDisplayScenes */,
+				70D4BCC41CE8254E00FFA3EA /* AnimatedCharacterScenes */,
+				70D4BCCF1CE8255200FFA3EA /* EndlessBackgroundScenes */,
+				70D4BCD91CE8255800FFA3EA /* PlatformsAndCollectablesScenes */,
 				70D4BC811CE81DCE00FFA3EA /* AppDelegate.swift */,
 				70D4BC831CE81DCE00FFA3EA /* GameScene.sks */,
 				70D4BC851CE81DCE00FFA3EA /* GameScene.swift */,
@@ -129,6 +169,79 @@
 				70D4BCA71CE81DCE00FFA3EA /* Info.plist */,
 			);
 			path = SceneEditorCookBookUITests;
+			sourceTree = "<group>";
+		};
+		70D4BCB51CE8253500FFA3EA /* SpawningEnemiesScenes */ = {
+			isa = PBXGroup;
+			children = (
+				70D4BCB31CE8253500FFA3EA /* SpawningEnemies.sks */,
+				70D4BCB41CE8253500FFA3EA /* SpawingEnemies.swift */,
+			);
+			name = SpawningEnemiesScenes;
+			path = ../../SceneEditorCookbookMaster/SceneEditorCookbookMaster;
+			sourceTree = "<group>";
+		};
+		70D4BCBA1CE8253A00FFA3EA /* Parallax Effect */ = {
+			isa = PBXGroup;
+			children = (
+				70D4BCB81CE8253A00FFA3EA /* Parallax.sks */,
+				70D4BCB91CE8253A00FFA3EA /* Parallax.swift */,
+			);
+			name = "Parallax Effect";
+			path = ../../SceneEditorCookbookMaster/SceneEditorCookbookMaster;
+			sourceTree = "<group>";
+		};
+		70D4BCBF1CE8254100FFA3EA /* HighScoreDisplayScenes */ = {
+			isa = PBXGroup;
+			children = (
+				70D4BCBD1CE8254100FFA3EA /* HighScoreDisplay.sks */,
+				70D4BCBE1CE8254100FFA3EA /* HighScoreDisplay.swift */,
+			);
+			name = HighScoreDisplayScenes;
+			path = ../../SceneEditorCookbookMaster/SceneEditorCookbookMaster;
+			sourceTree = "<group>";
+		};
+		70D4BCC41CE8254E00FFA3EA /* AnimatedCharacterScenes */ = {
+			isa = PBXGroup;
+			children = (
+				70D4BCC21CE8254E00FFA3EA /* AnimatedCharacter.sks */,
+				70D4BCC31CE8254E00FFA3EA /* AnimatedCharacter.swift */,
+			);
+			name = AnimatedCharacterScenes;
+			path = ../../SceneEditorCookbookMaster/SceneEditorCookbookMaster;
+			sourceTree = "<group>";
+		};
+		70D4BCCE1CE8255200FFA3EA /* ART */ = {
+			isa = PBXGroup;
+			children = (
+				70D4BCCA1CE8255200FFA3EA /* HomeButton.png */,
+				70D4BCCB1CE8255200FFA3EA /* CarJunkYard0.png */,
+				70D4BCCC1CE8255200FFA3EA /* CarJunkYard1.png */,
+				70D4BCCD1CE8255200FFA3EA /* CarJunkYard2.png */,
+			);
+			name = ART;
+			sourceTree = "<group>";
+		};
+		70D4BCCF1CE8255200FFA3EA /* EndlessBackgroundScenes */ = {
+			isa = PBXGroup;
+			children = (
+				70D4BCC71CE8255200FFA3EA /* EndlessBackgroundScene.swift */,
+				70D4BCC81CE8255200FFA3EA /* EndlessBackgroundScene.sks */,
+				70D4BCC91CE8255200FFA3EA /* BGClass.swift */,
+				70D4BCCE1CE8255200FFA3EA /* ART */,
+			);
+			name = EndlessBackgroundScenes;
+			path = ../../SceneEditorCookbookMaster/SceneEditorCookbookMaster;
+			sourceTree = "<group>";
+		};
+		70D4BCD91CE8255800FFA3EA /* PlatformsAndCollectablesScenes */ = {
+			isa = PBXGroup;
+			children = (
+				70D4BCD71CE8255800FFA3EA /* PlatformsAndCollectablesScene.swift */,
+				70D4BCD81CE8255800FFA3EA /* PlatformsAndCollectablesScene.sks */,
+			);
+			name = PlatformsAndCollectablesScenes;
+			path = ../../SceneEditorCookbookMaster/SceneEditorCookbookMaster;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -236,9 +349,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				70D4BC841CE81DCE00FFA3EA /* GameScene.sks in Resources */,
+				70D4BCD11CE8255200FFA3EA /* EndlessBackgroundScene.sks in Resources */,
+				70D4BCD61CE8255200FFA3EA /* CarJunkYard2.png in Resources */,
+				70D4BCD51CE8255200FFA3EA /* CarJunkYard1.png in Resources */,
 				70D4BC901CE81DCE00FFA3EA /* LaunchScreen.storyboard in Resources */,
+				70D4BCBB1CE8253A00FFA3EA /* Parallax.sks in Resources */,
+				70D4BCC01CE8254100FFA3EA /* HighScoreDisplay.sks in Resources */,
+				70D4BCC51CE8254E00FFA3EA /* AnimatedCharacter.sks in Resources */,
+				70D4BCB61CE8253500FFA3EA /* SpawningEnemies.sks in Resources */,
 				70D4BC8D1CE81DCE00FFA3EA /* Assets.xcassets in Resources */,
+				70D4BCDB1CE8255800FFA3EA /* PlatformsAndCollectablesScene.sks in Resources */,
+				70D4BCD31CE8255200FFA3EA /* HomeButton.png in Resources */,
 				70D4BC8B1CE81DCE00FFA3EA /* Main.storyboard in Resources */,
+				70D4BCD41CE8255200FFA3EA /* CarJunkYard0.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,8 +386,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				70D4BCC61CE8254E00FFA3EA /* AnimatedCharacter.swift in Sources */,
 				70D4BC861CE81DCE00FFA3EA /* GameScene.swift in Sources */,
+				70D4BCD21CE8255200FFA3EA /* BGClass.swift in Sources */,
+				70D4BCBC1CE8253A00FFA3EA /* Parallax.swift in Sources */,
+				70D4BCD01CE8255200FFA3EA /* EndlessBackgroundScene.swift in Sources */,
 				70D4BC881CE81DCE00FFA3EA /* GameViewController.swift in Sources */,
+				70D4BCDA1CE8255800FFA3EA /* PlatformsAndCollectablesScene.swift in Sources */,
+				70D4BCC11CE8254100FFA3EA /* HighScoreDisplay.swift in Sources */,
+				70D4BCB71CE8253500FFA3EA /* SpawingEnemies.swift in Sources */,
 				70D4BC821CE81DCE00FFA3EA /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
